@@ -1,0 +1,5 @@
+*.o
+*.a
+*.so*
+tests/test_bogons
+bogons.pc
